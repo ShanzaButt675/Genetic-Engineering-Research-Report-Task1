@@ -34,5 +34,5 @@ This report reviews recent scientific and clinical developments in genome editin
 This report was prepared as part of the **Code Alpha Biotechnology Internship** (Task 1) to demonstrate research and scientific writing skills on a current, clinically relevant biotechnology topic.
 
 ## Author
-Shanza Butt@github
+Shanza Butt @GitHub 
 BS Biotechnology, UVAS Lahore
