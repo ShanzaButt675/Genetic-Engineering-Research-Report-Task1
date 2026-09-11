@@ -1,2 +1,38 @@
-As part of my Biotechnology Internship at Code Alpha, I recently completed a research report on Recent Advancements in Genetic Engineering. In this report, I explored how CRISPR/Cas9 has evolved from a basic gene-cutting tool into a clinically approved therapy — including Casgevy, the first FDA-approved CRISPR-based treatment for sickle cell disease and beta-thalassemia. I also studied newer, more precise editing methods like base editing and prime editing, which allow scientists to correct DNA without creating a double-strand break. Additionally, I looked into how in vivo delivery systems and AI-assisted design are shaping the next generation of gene editors, along with the ethical and safety challenges that come with this powerful technology.# Genetic-Engineering-Research-Report-Task1
-A research report on recent advancements in genetic engineering, covering CRISPR/Cas9, base editing, prime editing, gene therapy (Casgevy), in vivo delivery, and AI-assisted editor design. Includes ethical and safety considerations with APA-style references.
+# Genetic-Engineering-Research-Report-Task1
+A detailed research report on recent advancements in genetic engineering, prepared as part of my Biotechnology Internship at Code Alpha.
+
+## Overview
+This report reviews recent scientific and clinical developments in genome editing technologies, covering CRISPR/Cas9, base editing, prime editing, in vivo delivery systems, and AI-assisted editor design. It examines how genetic engineering has moved from an experimental technique to a clinically approved biotechnology platform.
+
+## Key Topics Covered
+- CRISPR/Cas9 mechanism and its clinical translation
+- FDA-approved gene therapy Casgevy (sickle cell disease & beta-thalassemia)
+- Base editing and prime editing technologies
+- In vivo editing and delivery systems (lipid nanoparticles, viral vectors)
+- Role of artificial intelligence in gene editor design
+- Applications in agriculture and industrial biotechnology
+- Ethical, safety, and equitable-access considerations
+- ## Tech Stack
+- Format: PDF Report
+- Length: ~1,950 words (excluding references)
+- Citation Style: APA
+- Domain: Biotechnology — Genetic Engineering
+
+## Report Structure
+1. Abstract & Introduction
+2. CRISPR/Cas9 and Clinical Gene Therapy
+3. Base Editing
+4. Prime Editing
+5. In Vivo Editing and Delivery Technologies
+6. AI and Next-Generation Editors
+7. Applications Beyond Human Medicine
+8. Challenges and Ethical Considerations
+9. Future Prospects
+10. Conclusion & References
+
+## Project Context
+This report was prepared as part of the **Code Alpha Biotechnology Internship** (Task 1) to demonstrate research and scientific writing skills on a current, clinically relevant biotechnology topic.
+
+## Author
+Shanza Butt@github
+BS Biotechnology, UVAS Lahore
